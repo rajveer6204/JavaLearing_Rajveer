@@ -1,5 +1,4 @@
 ⭐ Java Learning Repository
-![IMAGE]https://github.com/rajveer6204/JavaLearing_Rajveer/blob/main/javaLEARING.png
 Welcome to the Java Learning Repository, a well-structured collection of Java programs, concepts, and practice exercises created to strengthen core programming skills. This repository serves as a complete reference for beginners and intermediate learners who want to understand Java from fundamentals to real-world application.
 
 📘 About the Repository
@@ -33,5 +32,8 @@ Improve logic building and problem-solving
 Understand real-world programming patterns
 
 Prepare for interviews and future projects
+
+![Image.png]https://github.com/rajveer6204/JavaLearing_Rajveer/blob/main/javaLEARING.png
+
 
 Maintain a clean and organized learning reference

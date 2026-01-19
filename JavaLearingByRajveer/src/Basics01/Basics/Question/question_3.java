@@ -1,4 +1,4 @@
-package Basics01.Basics.Question;
+// package Basics01.Basics.Question;
 
 //        write a java program which asks the user to Enter his/her name and grat them with " Hello <name>, have a good day " text.
 

@@ -1,4 +1,5 @@
-package Basics01.Basics.Question;
+// package Basics01.Basics.Question;
+
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Basics01.Basics.Question;
+// package Basics01.Basics.Question;
 // Write a java Program to detect whether a number Enter by the user is integer or not .
 import java.util.Scanner;
 
